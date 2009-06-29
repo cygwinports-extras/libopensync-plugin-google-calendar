@@ -1,4 +1,4 @@
 category: Libs
-requires: cygwin glib2 libopensync0 libxml2 python python-httplib2 python-xml
+requires: glib2 libopensync0 libxml2 python python-httplib2 python-xml
 sdesc: "OpenSync Google Calendar plugin"
 ldesc: "Google Calendar plugin for the OpenSync synchronization framework"
